@@ -40,8 +40,8 @@ I'm a network-minded developer who's passionate about how the internet works beh
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=slxughhter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slxughhter&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rizz123-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizz123-star&layout=compact&theme=tokyonight"/>
 
 <br/>
 
