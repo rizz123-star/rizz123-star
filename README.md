@@ -45,7 +45,7 @@ I'm a network-minded developer who's passionate about how the internet works beh
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=slxughhter&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rizz123-star&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
